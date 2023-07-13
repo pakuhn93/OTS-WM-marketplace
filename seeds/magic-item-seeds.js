@@ -1,6 +1,6 @@
-const fs = require('fs');
-// import the json file to be used
+// import the json file to be used for bulk creating models
 const magicItemsData = require('./magic-items.json');
+
 // import the model that is getting seeded
 const MagicItem = require('../models');
 
