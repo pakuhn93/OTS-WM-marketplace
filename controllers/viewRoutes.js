@@ -8,4 +8,9 @@ router.get('/', async (req, res) => {
     res.render('home');
 });
 
+// marketplace url endpoint
+router.get('/marketplace', async (req, res) => {
+    res.render('marketplace');
+});
+
 module.exports = router;

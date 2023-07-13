@@ -1,0 +1,2558 @@
+[
+    {
+        "name": "Absorbing Tattoo",
+        "price": 8000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Adamantine Armor",
+        "price": 500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Alchemical Compendium",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Alchemy Jug",
+        "price": 6000,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "All-Purpose Tool +1",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "All-Purpose Tool +2",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "All-Purpose Tool +3",
+        "price": 24000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ammunition +1(each)",
+        "price": 25,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Ammunition +2(each)",
+        "price": 100,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Ammunition +3(each)",
+        "price": 400,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Amulet of Health",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Amulet of Proof Against Detection and Location",
+        "price": 20000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Amulet of the Devout +1",
+        "price": 1800,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Amulet of the Devout +2",
+        "price": 7200,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Amulet of the Devout +3",
+        "price": 28800,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Amulet of the Planes",
+        "price": 160000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Animated Shield",
+        "price": 6000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Apparatus of Kwalish",
+        "price": 10000,
+        "rarity": "Legendary",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Arcane Grimoire +1",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Arcane Grimoire +2",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Arcane Grimoire +3",
+        "price": 24000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Armor +1 (add to cost of armor)",
+        "price": 1500,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Armor +2 (add to cost of armor)",
+        "price": 6000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Armor +3 (add to cost of armor)",
+        "price": 24000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Armor of Gleaming (add to cost of armor)",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Armor of Invulnerability",
+        "price": 18000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Armor of Resistance",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Arrow of Slaying(ea)",
+        "price": 600,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Arrow-Catching Shield",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Astral Shard",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Astromancy Archive",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Atlas of Endless Horizons",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Bag of Holding",
+        "price": 4000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Barrier Tattoo (AC 12 + Dex)",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Barrier Tattoo (AC 15 + Dex | max +2)",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Barrier Tattoo (AC 18)",
+        "price": 32000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Bead of Force",
+        "price": 960,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Bead of Nourishment",
+        "price": 1,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Bead of Refreshment",
+        "price": 10,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Bell Branch",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Belt of Dwarvenkind",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Belt of Giant Strength (STR 21, Hill)",
+        "price": 9000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Belt of Giant Strength (STR 23, Frost)",
+        "price": 14000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Belt of Giant Strength (STR 23, Stone)",
+        "price": 14000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Belt of Giant Strength (STR 25, Fire)",
+        "price": 38000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Belt of Giant Strength (STR 27, Cloud)",
+        "price": 45000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Belt of Giant Strength (STR 29, Storm)",
+        "price": 75000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Blood Fury Tattoo",
+        "price": 48000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Bloodwell Vial +1",
+        "price": 1800,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Bloodwell Vial +2",
+        "price": 7200,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Bloodwell Vial +3",
+        "price": 28800,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Boots of Elvenkind",
+        "price": 2500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Boots of False Tracks",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Boots of Levitation",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Boots of Speed",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Boots of Striding and Springing",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Boots of the Winterlands",
+        "price": 10000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Bowl of Commanding Water Elementals",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Bracers of Archery",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Bracers of Defense",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Brass Horn of Valhalla",
+        "price": 8400,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Brazier of Commanding Fire Elementals",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Bronze Griffon",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Bronze Horn of Valhalla",
+        "price": 11200,
+        "rarity": "Very Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Brooch of Shielding",
+        "price": 7500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Broom of Flying",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Candle of the Deep",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cap of Water Breathing",
+        "price": 1000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cape of the Mountebank",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Carpet of Flying",
+        "price": 12000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Cast-Off Armor (add to cost of armor)",
+        "price": 50,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cauldron of Rebirth",
+        "price": 50000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Censer of Controlling Air Elementals",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Charlatan's Die",
+        "price": 30,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Chime of Opening",
+        "price": 1500,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Circlet of Blasting",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Cloak of Arachnida",
+        "price": 5000,
+        "rarity": "Very Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cloak of Billowing",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cloak of Displacement",
+        "price": 60000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Cloak of Elvenkind",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cloak of Invisibility",
+        "price": 80000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Cloak of Many Fashions",
+        "price": 70,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cloak of Protection",
+        "price": 3500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Cloak of the Bat",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cloak of the Manta Ray",
+        "price": 6000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Clockwork Amulet",
+        "price": 240,
+        "rarity": "Common",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Clothes of Mending",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Coiling Grasp Tattoo",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Cracked Driftglobe",
+        "price": 325,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Crystal Ball",
+        "price": 50000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Crystalline Chronicle",
+        "price": 20000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Cube of Force",
+        "price": 16000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Cubic Gate",
+        "price": 40000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Daern's Instant Fortress",
+        "price": 75000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Dagger of Venom",
+        "price": 2500,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Dancing Sword",
+        "price": 2000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Dark Shard Amulet",
+        "price": 120,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Decanter of Endless Water",
+        "price": 135000,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Deck of Illusions",
+        "price": 6120,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Defender",
+        "price": 24000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Devotee's Censer",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Dimensional Shackles",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Dragon Scale Mail",
+        "price": 4000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Dragon Slayer",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Dread Helm",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Driftglobe",
+        "price": 750,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Duplicitous Manuscript",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Dust of Disappearance",
+        "price": 300,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Dust of Dryness(1 pellet)",
+        "price": 120,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Dust of Sneezing and Choking",
+        "price": 480,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Dwarven Plate",
+        "price": 9000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Dwarven Thrower",
+        "price": 18000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ear Horn of Hearing",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ebony Fly",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Efreeti Chain",
+        "price": 20000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Eldritch Claw Tattoo",
+        "price": 1200,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Elemental Essence Shard",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Elemental Gem",
+        "price": 960,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Elixir of Health",
+        "price": 120,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Elven Chain",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Enduring Spellbook",
+        "price": 100,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ersatz Eye",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Eversmoking Bottle",
+        "price": 1000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Eyes of Charming",
+        "price": 3000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Eyes of Minute Seeing",
+        "price": 2500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Eyes of the Eagle",
+        "price": 2500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Far Realm Shard",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Feywild Shard",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Flame Tongue",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Folding Boat",
+        "price": 10000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Frost Brand",
+        "price": 2200,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Fulminating Treatise",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Gauntlets of Ogre Power",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Gem of Brightness",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Gem of Seeing",
+        "price": 32000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ghost Step Tattoo",
+        "price": 8000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Giant Slayer",
+        "price": 7000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Glamoured Studded Leather",
+        "price": 2000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Gloves of Missile Snaring",
+        "price": 3000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Gloves of Swimming and Climbing",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Gloves of Thievery",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Goggles of Night",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Goldean Lion(ea)",
+        "price": 600,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Guardian Emblem ",
+        "price": 3000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Hammer of Thunderbolts",
+        "price": 16000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Hat of Disguise",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Hat of Vermin",
+        "price": 180,
+        "rarity": "Common",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Hat of Wizardry",
+        "price": 120,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Headband of Intellect",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Heart Weaver's Primer",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Helm of Comprehend Languages",
+        "price": 500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Helm of Telepathy",
+        "price": 12000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Helm of Teleportation",
+        "price": 64000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Heward's Handy Haversack",
+        "price": 2000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Heward's Handy Spice Pouch",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Holy Avenger",
+        "price": 165000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Horn of Blasting",
+        "price": 450,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Horn of Silent Alarm",
+        "price": 240,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Horseshoes of Speed",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Horseshoes of the Zephyr",
+        "price": 1500,
+        "rarity": "Very Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Illuminator's Tattoo",
+        "price": 240,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Immovable Rod",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Instrument of Illusions",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Instrument of Scribing",
+        "price": 180,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Anstruth Harp",
+        "price": 109000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Canaith Mandolin",
+        "price": 30000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Cli Lyre",
+        "price": 35000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Doss Lute",
+        "price": 28500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Fochulan Bandlore",
+        "price": 26500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Mac-Fuirmidh Cittern",
+        "price": 27000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Instrument of the Bards - Ollamh Harp",
+        "price": 125000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Absorption",
+        "price": 2400,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Ioun Stone Agility",
+        "price": 3000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Awareness",
+        "price": 12000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Fortitude",
+        "price": 3000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Greater Absorption",
+        "price": 31000,
+        "rarity": "Legendary",
+        "category": "Consumables"
+    },
+    {
+        "name": "Ioun Stone Insight",
+        "price": 3000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Intellect",
+        "price": 3000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Leadership",
+        "price": 3000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Mastery",
+        "price": 15000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Protection",
+        "price": 1200,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Regeneration",
+        "price": 4000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Reserve",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Strength",
+        "price": 3000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ioun Stone Sustenance",
+        "price": 1000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Iron Bands of Bilarro",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Iron Horn of Valhalla",
+        "price": 14000,
+        "rarity": "Legendary",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Ivory Goat(Terror)",
+        "price": 20000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Ivory Goat(Travail)",
+        "price": 400,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Ivory Goat(Traveling)",
+        "price": 1000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Javelin of Lightning",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Keoghtom's Ointment(Per dose)",
+        "price": 120,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Lantern of Revealing",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Libram of Souls and Flesh",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Lifewell Tattoo",
+        "price": 8000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Lock of Trickery",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Luckstone",
+        "price": 4200,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Lyre of Building",
+        "price": 12000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Mace of Disruption",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Mace of Smiting",
+        "price": 7000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Mace of Terror",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Mantle of Spell Resistance",
+        "price": 30000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Marble Elephant",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Mariner's Armor",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Masquerade Tattoo",
+        "price": 300,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Medallion of Thoughts",
+        "price": 3000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Mirror of Life Trapping",
+        "price": 18000,
+        "rarity": "Very Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Mithral Armor",
+        "price": 800,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Moon Sickle +1",
+        "price": 1800,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Moon Sickle +2",
+        "price": 7200,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Moon Sickle +3",
+        "price": 28800,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Moon-Touched Sword (add to cost of weapon)",
+        "price": 200,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Mystery Key",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Nature's Mantle",
+        "price": 800,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Necklace of Adaption",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Necklace of Fireballs(1 bead)",
+        "price": 300,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Necklace of Fireballs(2 beads)",
+        "price": 480,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Necklace of Fireballs(3 beads)",
+        "price": 960,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Necklace of Fireballs(4 beads)",
+        "price": 1600,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Necklace of Fireballs(5 bead)",
+        "price": 3840,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Necklace of Fireballs(6 beads)",
+        "price": 7680,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Nine Lives Stealer(Fully Charged)",
+        "price": 8000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Nolzur's Marvelous Pigments",
+        "price": 200,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Oathbow",
+        "price": 3500,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Obsidian Steed",
+        "price": 128000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Oil of Etherealness",
+        "price": 1920,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Oil of Sharpness",
+        "price": 3200,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Oil of Slipperiness",
+        "price": 480,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Onyx Dog",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Orb of Direction",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Orb of Time",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Outer Essence Shard",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Pearl of Power",
+        "price": 6000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Perfume of Bewitching",
+        "price": 90,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Periapt of Health",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Periapt of Proof Against Poison",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Periapt of Wound Closure",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Philter of Love",
+        "price": 90,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Pipe of Smoke Monsters",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Pipes of Haunting",
+        "price": 6000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Pipes of the Sewers",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Planecaller's Codex",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Plate Armor of Etherealness",
+        "price": 48000,
+        "rarity": "Legendary",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Pole of Angling",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Pole of Collapsing",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Portable Hole",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Pot of Awakening",
+        "price": 120,
+        "rarity": "Common",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Potion of Animal Friendship",
+        "price": 200,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Clairvoyance",
+        "price": 960,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Climbing",
+        "price": 180,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Diminution",
+        "price": 270,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Fire Breath",
+        "price": 150,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Flying",
+        "price": 500,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Gaseous Form",
+        "price": 300,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Greater Healing",
+        "price": 150,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Growth",
+        "price": 270,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Healing",
+        "price": 50,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Heroism",
+        "price": 180,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Invisibility",
+        "price": 180,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Invulnerability",
+        "price": 3840,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Longevity",
+        "price": 9000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Potion of Mind Reading",
+        "price": 180,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Poison",
+        "price": 100,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Resistance",
+        "price": 300,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Speed",
+        "price": 400,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Superior Healing",
+        "price": 450,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Supreme Healing",
+        "price": 1350,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Vitality",
+        "price": 960,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Potion of Water Breathing",
+        "price": 180,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Prayer Bead - Bless",
+        "price": 2000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Prayer Bead - Curing",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Prayer Bead - Favor",
+        "price": 32000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Prayer Bead - Smiting",
+        "price": 1500,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Prayer Bead - Summons",
+        "price": 128000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Prayer Bead - Wind Walking",
+        "price": 96000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Prosthetic Limb",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Protective Verses",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Quaal's Feather Token Anchor",
+        "price": 50,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Quaal's Feather Token Bird",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Quaal's Feather Token Fan",
+        "price": 250,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Quaal's Feather Token Swan Boat",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Quaal's Feather Token Whip",
+        "price": 250,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Quiver of Ehlonna",
+        "price": 1000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Reveler's Concertina",
+        "price": 10000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rhythm-Maker's Drum +1",
+        "price": 1800,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rhythm-Maker's Drum +2",
+        "price": 7200,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rhythm-Maker's Drum +3",
+        "price": 28800,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Air Elemental Command",
+        "price": 35000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Ring of Animal Influence",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Earth Elemental Command",
+        "price": 31000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Ring of Evasion",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Feather Falling",
+        "price": 2000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Fire Elemental Command",
+        "price": 17000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Free Action",
+        "price": 20000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Invisibility",
+        "price": 10000,
+        "rarity": "Legendary",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Jumping",
+        "price": 2500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Mind Shielding",
+        "price": 16000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Protection",
+        "price": 3500,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Regeneration",
+        "price": 12000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Ring of Resistance",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Shooting Stars",
+        "price": 14000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Spell Storing",
+        "price": 24000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Spell Turning",
+        "price": 30000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Swimming",
+        "price": 3000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Telekinesis",
+        "price": 80000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Ring of the Ram",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Warmth",
+        "price": 1000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of Water Elemental Command",
+        "price": 25000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Ring of Water Walking",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ring of X-Ray Vision",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Robe of Eyes",
+        "price": 30000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Robe of Scintillating Colors",
+        "price": 6000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Robe of Stars",
+        "price": 60000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Robe of the Archmagi",
+        "price": 34000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Robe of Useful Items (priced per item)",
+        "price": 5,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Rod of Absorption",
+        "price": 50000,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Rod of Alertness",
+        "price": 25000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rod of Lordly Might",
+        "price": 28000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rod of Rulership",
+        "price": 16000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Rod of Security",
+        "price": 90000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Rod of the Pact Keeper +1",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rod of the Pact Keeper +2",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rod of the Pact Keeper +3",
+        "price": 32000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rope of Climbing",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Rope of Entanglement",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Rope of Mending",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Ruby of the War Mage",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Saddle of the Cavalier",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Scarab of Protection",
+        "price": 36000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Scimitar of Speed",
+        "price": 6000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Scroll of Protection",
+        "price": 180,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Sending Stones",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Sentinel Shield",
+        "price": 20000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Serpentine Owl",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Shadowfell Brand Tattoo",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Shadowfell Shard",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Shield +1",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Shield +2",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Shield +3",
+        "price": 24000,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Shield of Expression",
+        "price": 70,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Shield of Missile Attraction",
+        "price": 6000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Silver Horn of Valhalla",
+        "price": 5600,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Silver Raven",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Slippers of Spider Climbing",
+        "price": 5000,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Smoldering Armor (add to cost of armor)",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Sovereign Glue",
+        "price": 400,
+        "rarity": "Legendary",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 0",
+        "price": 10,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 1",
+        "price": 60,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 2",
+        "price": 120,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 3",
+        "price": 200,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 4",
+        "price": 320,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 5",
+        "price": 640,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 6",
+        "price": 1280,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 7",
+        "price": 2560,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 8",
+        "price": 5120,
+        "rarity": "Very Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spell Scroll Level 9",
+        "price": 10240,
+        "rarity": "Legendary",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spellguard Shield",
+        "price": 50000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Spellwrought Tattoo (1st)",
+        "price": 120,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spellwrought Tattoo (2nd)",
+        "price": 240,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spellwrought Tattoo (3rd)",
+        "price": 400,
+        "rarity": "Uncommon",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spellwrought Tattoo (4th)",
+        "price": 640,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spellwrought Tattoo (5th)",
+        "price": 1280,
+        "rarity": "Rare",
+        "category": "Consumables"
+    },
+    {
+        "name": "Spellwrought Tattoo (Cantrip)",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Sphere of Annihilation",
+        "price": 15000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Staff of Adornment",
+        "price": 25,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Staff of Birdcalls",
+        "price": 140,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Staff of Charming",
+        "price": 12000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Fire",
+        "price": 16000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Flowers",
+        "price": 140,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Staff of Frost",
+        "price": 26000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Healing",
+        "price": 13000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Power",
+        "price": 95500,
+        "rarity": "Very Rare",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Staff of Striking",
+        "price": 21000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Swarming Insects",
+        "price": 16000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of the Adder",
+        "price": 1800,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of the Python",
+        "price": 2000,
+        "rarity": "Uncommon",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Staff of the Woodlands",
+        "price": 44000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Thunder and Lightning",
+        "price": 10000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Staff of Withering",
+        "price": 3000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Stone of Controlling Earth Elementals",
+        "price": 8000,
+        "rarity": "Rare",
+        "category": "Summoning Items"
+    },
+    {
+        "name": "Sunblade",
+        "price": 12000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Sword of Answering",
+        "price": 36000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Sword of Life-Stealing",
+        "price": 1000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Sword of Sharpness",
+        "price": 1700,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Sword of Wounding",
+        "price": 2000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Talisman of Pure Good",
+        "price": 71680,
+        "rarity": "Legendary",
+        "category": "Consumables"
+    },
+    {
+        "name": "Talisman of the Sphere",
+        "price": 20000,
+        "rarity": "Legendary",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Talisman of Ultimate Evil",
+        "price": 61440,
+        "rarity": "Legendary",
+        "category": "Consumables"
+    },
+    {
+        "name": "Talking Doll",
+        "price": 80,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Tankard of Sobriety",
+        "price": 20,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Tentacle Rod",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Trident of Fish Command",
+        "price": 800,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Unbreakable Arrow",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Universal Solvent",
+        "price": 300,
+        "rarity": "Legendary",
+        "category": "Consumables"
+    },
+    {
+        "name": "Veteran's Cane",
+        "price": 30,
+        "rarity": "Common",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Vicious Weapon",
+        "price": 350,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Vorpal Sword",
+        "price": 24000,
+        "rarity": "Legendary",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Walloping Ammunition",
+        "price": 25,
+        "rarity": "Common",
+        "category": "Consumables"
+    },
+    {
+        "name": "Wand of Binding",
+        "price": 10000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Conducting",
+        "price": 40,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Wand of Enemy Detection",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Fear",
+        "price": 10000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Fireballs",
+        "price": 32000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Lightning Bolts",
+        "price": 32000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Magic Detection",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Wand of Magic Missiles",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Paralysis",
+        "price": 16000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Polymorph",
+        "price": 32000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Pyrotechnics",
+        "price": 140,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Wand of Scowls",
+        "price": 80,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Wand of Secrets",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Wand of Smiles",
+        "price": 80,
+        "rarity": "Common",
+        "category": "Noncombat Items"
+    },
+    {
+        "name": "Wand of the War Mage +1",
+        "price": 1200,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of the War Mage +2",
+        "price": 4800,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of the War Mage +3",
+        "price": 19200,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wand of Web",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon +1 (Martial)",
+        "price": 1200,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon +1 (Simple)",
+        "price": 1000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon +2 (Martial)",
+        "price": 4800,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon +2 (Simple)",
+        "price": 4000,
+        "rarity": "Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon +3 (Martial)",
+        "price": 19200,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon +3 (Simple)",
+        "price": 16000,
+        "rarity": "Very Rare",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Weapon of Warning",
+        "price": 60000,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Wind Fan",
+        "price": 1500,
+        "rarity": "Uncommon",
+        "category": "Combat Items"
+    },
+    {
+        "name": "Winged Boots",
+        "price": 8000,
+        "rarity": "Uncommon",
+        "category": "Gamechanging Items"
+    },
+    {
+        "name": "Wings of Flying",
+        "price": 5000,
+        "rarity": "Rare",
+        "category": "Gamechanging Items"
+    }
+]
