@@ -8,7 +8,7 @@ const exphbs = require('express-handlebars'); // ties front-end and back-end tog
 // need this to start the express server
 const app = express();
 
-const sequelize = require('/config');
+const sequelize = require('./config');
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
 // enables tracking of sessions and stores them into mySQL
@@ -46,5 +46,8 @@ app.use(require('./controllers'));
 
 // starts the mySQL server then starts the express server
 sequelize.sync({ force: false })
-    .then(() => app.listen(process.env.PORT || 3001))
+    .then(() => {
+        app.listen(process.env.PORT || 3001);
+        console.log(`||| Server is now running!! |||`);
+    })
     .catch(err => console.error(err));

@@ -1,3 +1,5 @@
+// ***This file needs to be named index.js or the server won't start.***
+
 require('dotenv').config();
 const Sequelize = require('sequelize');
 
