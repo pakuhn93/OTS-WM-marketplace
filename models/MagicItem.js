@@ -9,7 +9,7 @@ class MagicItem extends Model {
     generatePrice(){
         const minPrice = this.price - (this.price * 0.25);
         const maxPrice = this.price + (this.price * 0.25);
-        return (Math.floor(Math.random() * (maxPrice - minPrice) + 1));
+        return Math.floor(Math.random() * (maxPrice - minPrice + 1)) + minPrice;
     }
 
     // set a discount to the base price
