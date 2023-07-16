@@ -4,7 +4,8 @@ const magicItemsData = require('./magic-items.json');
 // import the model that is getting seeded
 const MagicItem = require('../models');
 
-// prep the values in an array of model objects
+// prep the values in an array of model objects 
+// [[already completed in the json importing above]]
 
 // create a function to execute the creation of these models
 const seedMagicItems = () => MagicItem.bulkCreate(magicItemsData);
